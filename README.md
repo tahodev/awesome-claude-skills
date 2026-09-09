@@ -453,6 +453,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Prompt-based guidance through the income-tax portal for Indian returns
 **Stars:** ⭐⭐⭐
 
+#### furusato-nozei
+**Source:** [tahodev/kurashi-skill](https://github.com/tahodev/kurashi-skill/tree/main/furusato-nozei)
+**Description:** Calculates Japan's furusato nozei (hometown tax) donation limit from salary or taxable income - pure calculation, no API.
+**Use Case:** When users ask about furusato nozei donation caps, deduction estimates, or the one-stop exception
+**Stars:** ⭐⭐⭐⭐
+
 ---
 
 ### ✍️ Writing & Research
@@ -542,6 +548,7 @@ Looking for curated skill bundles? Start with these collections:
 | [ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal/tree/main/skills) | 3 | @ZengLiangYi | Local-first memory recall and writeback for AI coding sessions |
 | [Affitor/affiliate-skills](https://github.com/Affitor/affiliate-skills) | 45 | @Affitor | Affiliate marketing full funnel: research, content, SEO, landing pages, distribution, analytics, automation |
 | [noizai/skills](https://github.com/noizai/skills) | 2+ | @noizai | TTS dubbing and companion voice presets |
+| [tahodev/kurashi-skill](https://github.com/tahodev/kurashi-skill) | 5 | @tahodev | Japanese daily life on official open data: JMA weather, disaster alerts, national holidays, furusato tax, library search |
 
 ---
 
